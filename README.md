@@ -59,3 +59,9 @@ react-native run-ios
 ```
 
 Otherwise, you could also like to test directly the [**releases apks**](https://github.com/radandevist/utimer/releases/tag/alpha).
+
+## Further improvements:
+
+* Notification when the timer completes
+
+* idk, etc, ...
